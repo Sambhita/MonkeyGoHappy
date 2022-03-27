@@ -1,0 +1,11 @@
+.BOX{
+    max-width: 1020px;
+    position: relative;
+    display: block;
+    top: center;
+    left : 83%;
+    transform: translate(-90%, -5%);
+   background: rgba(148, 133, 133, 0.4);
+    box-shadow: 0 15px 20px rgba(0, 0, 0, 0.507);
+    padding: 30px;
+}
